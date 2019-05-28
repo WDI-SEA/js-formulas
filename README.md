@@ -11,7 +11,7 @@ Each solution should be in its own repl.it project so you will need to submit 5 
 
 ---
 
-### Area of a rectangle.
+### 1. Area of a rectangle.
 
 Write a program that calculates the area of a rectangle. Create variables to hold the length and the height and use them in the area calculation:
 
@@ -21,7 +21,7 @@ Print the calculated area for the user.
 
 ---
 
-### Area of a triangle.
+### 2. Area of a triangle.
 
 Write a program that calculates the area of a triangle. Create variables to hold the base and the height and use them in the area calculation:
 
@@ -31,7 +31,7 @@ Print the calculated area for the user.
 
 ---
 
-### Area of a circle.
+### 3. Area of a circle.
 
 Write a program that calculates the area of a circle. Create a variable to hold the radius and use it in the area calculation:
 
@@ -41,7 +41,7 @@ Print the calculated area for the user. **The value for PI is built into JavaScr
 
 ---
 
-### Circumference of a circle.
+### 4. Circumference of a circle.
 
 Write a program that calculates the circumference of a circle. Create a variable to hold the radius and use it in the area calculation:
 
@@ -51,13 +51,51 @@ Print the calculated circumference for the user.
 
 ---
 
-### Volume of a sphere.
+### 5. Volume of a sphere.
 
 Write a program that calculates the volume of a sphere. Create a variable to hold the radius and use it in the area calculation:
 
 Sphere volume = 4/3 x Pi x radius x radius x radius
 
 Print the calculated volume for the user.
+
+---
+
+### 6. Concatenating Strings
+
+Given these three strings:
+
+```js
+var str1 = 'Software';
+var str2 = 'Development';
+var str3 = 'Rules';
+```
+
+Write a program that will concatenate them into a single string. **First**, use the concatenation operator (+) and **then** rewrite your solution to use the String.concat() function. Print out the resulting string for the user. **BONUS:** Add spaces between the words in the resulting string.
+
+---
+
+### 7. Find First Occurrance of Letter
+
+A pangram is a string containing all letters of the alphabet. Given the string:
+
+```js
+var str = 'The quick brown fox jumps over the lazy dog'
+```
+
+Find the index of the first occurrance of the letter 'z'. Try a few other letters - since it is a pangram every letter should be present. Print out the index of the letter for the user.
+
+---
+
+### 8. Find a Sub-String
+
+---
+
+### 9. Replace Word in a String
+
+---
+
+### 10. Print a Portion of a String
 
 ---
 
