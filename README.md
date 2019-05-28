@@ -89,13 +89,47 @@ Find the index of the first occurrance of the letter 'z'. Try a few other letter
 
 ### 8. Find a Sub-String
 
+Given the following string:
+
+```js
+var str = 'The quick brown fox jumps over the lazy dog'
+```
+
+Write a program that checks to see if it contains the following sub-strings:
+
+```js
+var substr1 = 'ump';
+var substr2 = 'brown';
+var substr3 = 'Quick';
+```
+
+Print `true` or `false` to indicate if the sub-string is present.
+
+Based on the results, is the comparison case-sensitive or case-insensitive?
+
 ---
 
 ### 9. Replace Word in a String
 
+Given the following string:
+
+```js
+var str = 'The quick brown fox jumps over the lazy dog'
+```
+
+We want to modify the string to change the animals' descriptions. Change 'quick' to 'small' and change 'lazy' to 'sleeping'. Print the modified string.
+
 ---
 
 ### 10. Print a Portion of a String
+
+Given the following string:
+
+```js
+var str = 'I am a lasagna hog';
+```
+
+Write a program that will print only the word lasagna.
 
 ---
 
